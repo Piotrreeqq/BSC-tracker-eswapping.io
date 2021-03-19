@@ -1,0 +1,5 @@
+INFO: 2021-03-19 11:41:06,225 Using <web3.main.Web3 object at 0x0000026990235370> ('BSC')
+INFO: 2021-03-19 11:41:06,437 Using factory contract: <web3._utils.datatypes.Contract object at 0x0000026990235280>
+INFO: 2021-03-19 11:41:06,574 Using <web3.main.Web3 object at 0x000002699031E370> ('BSC')
+INFO: 2021-03-19 11:41:06,650 Using factory contract: <web3._utils.datatypes.Contract object at 0x0000026990259EE0>
+INFO: 2021-03-19 11:41:07,308 2021-03-19 11:41:07.308506 Calling Many
